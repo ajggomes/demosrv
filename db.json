@@ -23,29 +23,7 @@
 					"url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/216.jpg"
 				}
 			]
-		},
-		{
-			"id": 2,
-			"firstName": "Davion",
-			"lastName": "Botsford",
-			"email": "graciela42@yahoo.com",
-			"status": false,
-			"birthday": "2023-06-20T16:41:43.919Z",
-			"skills": [
-				"postgresql",
-				"swift",
-				"react"
-			],
-			"avatar": [
-				{
-					"name": "Davion.jpg",
-					"percent": 100,
-					"size": 40088,
-					"status": "done",
-					"type": "image/jpeg",
-					"uid": "rc-upload-1715285179832",
-					"url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/286.jpg"
-				}
+		}
 			]
 		}
 			]
@@ -59,30 +37,6 @@
 		{
 			"id": 2,
 			"title": "Smartphones & Tablets"
-		},
-		{
-			"id": 3,
-			"title": "Audio & Video"
-		},
-		{
-			"id": 4,
-			"title": "Gaming"
-		},
-		{
-			"id": 5,
-			"title": "Home & Kitchen"
-		},
-		{
-			"id": 6,
-			"title": "Office & Supplies"
-		},
-		{
-			"id": 7,
-			"title": "Books & Magazines"
-		},
-		{
-			"id": 8,
-			"title": "Music & Instruments"
 		}
 	],
 	"blog_posts": [
